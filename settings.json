@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "stuggle.aternos.me:52579",
+    "ip": "stuggle.aternos.me",
     "port": 52579,
     "version": "1.21.11",
     "try-creative": false
